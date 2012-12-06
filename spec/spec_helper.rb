@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 require 'capybara/spec/spec_helper'
 
 RSpec.configure do |config|
